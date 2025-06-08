@@ -1,3 +1,8 @@
 print ("Hello world!")
 print (2+4)
 print ("Hello github.")
+print ("Hello world!")
+print (2+4)
+print ("Hello github.")
+print ("A+B")
+print ("Hakuna Matata")
